@@ -1,5 +1,4 @@
 <?php
-include("../config/config.php");
 
 function verificarArray()
 {
@@ -29,7 +28,6 @@ function verificarArray()
             echo  $value . ' | ';
         }
     }
-    $GLOBALS[$convertArray];
-    header('Location: ../index.php');
+
 }
 verificarArray();

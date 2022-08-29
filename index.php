@@ -42,8 +42,6 @@ Caso a string passada não se atente a todos os requisitos acima, retornar false
 
                 <input type="submit" class="btn btn-success btn-sm">
 
-
-
             </form>
         </div>
         <div class="col-6">
@@ -67,10 +65,7 @@ Caso a string passada não se atente a todos os requisitos acima, retornar false
         </div>
     </div>
 
-
-
 </body>
-
 
 
 <script>
